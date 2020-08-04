@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/DSalvigni/weather-axio#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "yargs": "^11.0.0"
   }
 }
