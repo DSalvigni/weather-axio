@@ -16,7 +16,7 @@ const arg = yargs
 
 var encodedAddress = encodeURIComponent(arg.address);
 var googleKey ='';
-var skyKey = '8050c5bdb7831c1610a00e266423484d';
+var skyKey = '****';
 var geocodeUrl = 'https://maps.googleapis.com/maps/api/geocode/json?key='+googleKey+'&address='+encodedAddress;
 
 
